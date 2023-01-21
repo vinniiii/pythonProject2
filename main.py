@@ -12,6 +12,8 @@ def print_hi(name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('PyCharm')
+    print("12334")
+    print("455677")
     print("something")
     print('sometime')
     print ("third commit")
