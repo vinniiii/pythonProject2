@@ -14,5 +14,6 @@ if __name__ == '__main__':
     print_hi('PyCharm')
     print("something")
     print('sometime')
+    print ("third commit")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
